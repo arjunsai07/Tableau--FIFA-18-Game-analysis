@@ -65,7 +65,7 @@ We welcome contributions and suggestions! Please open an issue or submit a pull 
 
 ## Authors
 
-- **Arjun Srinivasan** - *Initial work* - (https://github.com/arjunsai07)
+- **Arjun Srinivasan** - *Initial work* - [https://github.com/arjunsai07](https://github.com/arjunsai07")
 
 ## Acknowledgments
 
