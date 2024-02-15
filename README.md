@@ -25,16 +25,17 @@ Data was sourced from [Kaggle's FIFA 18 Complete Player Dataset](https://www.kag
 
 ## Visualizations
 
-The project includes several dashboards created in Tableau, each focusing on different aspects of the FIFA 18 data. 
-
-View the dashboard here:
-![FIFA 18 Dataset Dashboard](https://github.com/arjunsai07/Tableau--FIFA-18-Game-analysis/blob/main/Dashboard-FIFA%2018.png?raw=true)
-
+The project includes several dashboards created in Tableau, each focusing on different aspects of the FIFA 18 data.
 
 
 ## Interactive Dashboard
 
-<iframe src="https://public.tableau.com/views/FIFA18dataset/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width="100%" height="600"></iframe>
+## Interactive Dashboard Preview
+
+Click the image below to explore the interactive dashboard:
+
+[![FIFA 18 Dataset Dashboard](https://github.com/arjunsai07/Tableau--FIFA-18-Game-analysis/blob/main/Dashboard-FIFA%2018.png?raw=true)](https://public.tableau.com/views/FIFA18dataset/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Click to view the interactive dashboard")
+
 
 ### Sample Visualizations
 
