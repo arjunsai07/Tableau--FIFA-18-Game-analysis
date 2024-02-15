@@ -30,7 +30,7 @@ The project includes several dashboards created in Tableau, each focusing on dif
 View the dashboard here:
 ![FIFA 18 Dataset Dashboard](https://github.com/arjunsai07/Tableau--FIFA-18-Game-analysis/blob/main/Dashboard-FIFA%2018.png?raw=true)
 
-![FIFA 18 Dataset Dashboard](https://public.tableau.com/app/profile/arjun.srinivasan5934/viz/FIFA18dataset/Dashboard1?publish=yes)
+![FIFA 18 Dataset Dashboard](https://public.tableau.com/shared/9CTN87G29?:display_count=n&:origin=viz_share_link)
 
 ### Sample Visualizations
 
