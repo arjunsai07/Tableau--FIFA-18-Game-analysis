@@ -14,11 +14,7 @@ The dataset consists of detailed attributes for every player included in FIFA 18
 - Nationality
 - Skills ratings
 
-Data was sourced from [Kaggle's FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset).
-
-## Visualizations
-
-The project includes several dashboards created in Tableau, each focusing on different aspects of the FIFA 18 data.
+Data was sourced from [Kaggle's FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
 
 
 ## Interactive Dashboard
